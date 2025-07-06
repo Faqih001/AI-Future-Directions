@@ -1,6 +1,6 @@
 # Smart Agriculture System Proposal
 
-**Authors:** Fakii Mohammed, Andrew Ogembo, Chiboniso Nyoni  
+**Authors:** Fakii Mohammed, Andrew Ogembo, Chiboniso Nyoni, Peterson Kagiri  
 **Group:** 67 AI Software Engineers
 
 ## Sensors Needed

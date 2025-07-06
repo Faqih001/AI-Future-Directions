@@ -1,6 +1,6 @@
 # Ethics in Personalized Medicine: Bias and Fairness
 
-**Authors:** Fakii Mohammed, Andrew Ogembo, Chiboniso Nyoni  
+**Authors:** Fakii Mohammed, Andrew Ogembo, Chiboniso Nyoni, Peterson Kagiri  
 **Group:** 67 AI Software Engineers
 
 AI models trained on datasets like the Cancer Genomic Atlas may exhibit biases due to underrepresentation of certain ethnic groups. This can lead to less effective or even harmful treatment recommendations for minorities. To address this, it is crucial to:
